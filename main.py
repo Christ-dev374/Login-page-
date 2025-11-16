@@ -8,14 +8,12 @@ class MainApp(QDialog,Ui_Dialog):
         super().__init__()
         self.setupUi(self)
         self.setWindowTitle("Hospital Consultation")
-        print("The app is running!")
         
         self.setWindowFlags(
             Qt.Window |
             Qt.WindowMinimizeButtonHint |
             Qt.WindowCloseButtonHint
         )
-        print("The app is running!")
         
 if __name__ == "__main__":
     app = QApplication(sys.argv)
