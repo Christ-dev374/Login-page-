@@ -8,7 +8,7 @@
 
 ##### Group members and contribution:
 
-| Student names                     | Matricule number | Contrinution                                           |
+| Student names                     | Matricule number | Contribution                                           |
 | --------------------------------- | ---------------- | ------------------------------------------------------ |
 | MBELLE CHRISTIAN-ALLEN MORIKA     | FE24A310         | Group Leader                                           |
 | TANKALA AZOASIEH MANIC            | FE24A374         |                                                        |
